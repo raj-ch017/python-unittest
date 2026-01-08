@@ -1,3 +1,7 @@
+"""
+Code for doctest from separate file
+"""
+
 >>> from test_module02 import *
 >>> mul(2, 3)
 6
