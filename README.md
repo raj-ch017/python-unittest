@@ -58,34 +58,22 @@ Each directory corresponds roughly to chapters or major topics covered in the bo
 └── README.md
 ```
 
-## ⚖️ Copyright & Licensing
-📚 Book Copyright Notice
+## ⚖️ Copyright Notice & Disclaimer
 
-The book referenced in this repository is protected by copyright:
+This repository is a **personal educational project** created while studying the book:
 
-```
-Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python
-© 2022 Ashwin Pajankar
-Published by Apress, an imprint of Springer Nature
-All rights reserved
-```
+**Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python**  
+© 2022 Ashwin Pajankar — Published by Apress (Springer Nature)
 
-No part of the book’s text, explanations, figures, or layout is redistributed in this repository.
+The original book and its contents are protected under copyright law.  
+All rights to the book content, structure, and presentation are reserved by the publisher.
 
-This repository does not contain:
+This repository:
+- Does **not** include any part of the book text
+- Does **not** include figures, tables, or illustrations from the book
+- Does **not** distribute any official source files provided by the publisher
 
-* Book PDFs or scans
+All code in this repository is **re-typed, adapted, or independently implemented** for learning purposes while following along with the book.  
+Any similarity to the book’s examples is incidental to its instructional nature.
 
-* Screenshots of book pages
-
-* Verbatim reproduction of book text
-
-You must own a legal copy of the book to fully follow along with the material.
-
-## 💻 Code in This Repository
-
-* The code in this repository is re-typed, adapted, or independently implemented by me while studying the book.
-
-* The repository is intended strictly for educational and personal learning purposes.
-
-* Any similarity to the book’s example code is incidental to its instructional nature.
+You must own a **legitimate copy of the book** to fully benefit from or follow along with this repository.
